@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/valid-anagram/description/
 
-#![allow(unused)]
-
 use std::collections::HashMap;
 
 fn solution(s: String, t: String) -> bool {

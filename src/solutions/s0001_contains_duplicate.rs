@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/contains-duplicate/description/
 
-#![allow(unused)]
-
 use std::collections::HashSet;
 
 fn solution(nums: Vec<i32>) -> bool {

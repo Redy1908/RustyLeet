@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/two-sum/description/
 
-#![allow(unused)]
-
 use std::collections::HashMap;
 
 fn solution(nums: Vec<i32>, target: i32) -> Vec<i32> {
