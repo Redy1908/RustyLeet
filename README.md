@@ -148,6 +148,18 @@ Solutions to LeetCode problems in Rust
           <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/s0001_valid_palindrome.rs"> Solution</a>
         </td>
       </tr>
+      <tr>
+        <td>
+          167
+        </td>
+        <td>
+          <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/"> Two Sum 2</a>
+        </td>
+        <td>Medium</td>
+        <td>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/s0002_two_sum_2.rs"> Solution</a>
+        </td>
+      </tr>
   </tbody>
 </table>
 
