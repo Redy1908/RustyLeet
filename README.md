@@ -49,6 +49,18 @@ Solutions to LeetCode problems in Rust
       </tr>
       <tr>
         <td>
+         128 
+        </td>
+        <td>
+          <a href="https://leetcode.com/problems/longest-consecutive-sequence/description/"> Longest Consecutive Sequence</a>
+        </td>
+        <td>Medium</td>
+        <td>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/solutions/s0009_longest_consecutive_sequence.rs"> Solution</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
           217
         </td>
         <td>
