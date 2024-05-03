@@ -49,6 +49,18 @@ Solutions to LeetCode problems in Rust
       </tr>
       <tr>
         <td>
+          238
+        </td>
+        <td>
+          <a href="https://leetcode.com/problems/product-of-array-except-self/description/"> Product of Array Except Self</a>
+        </td>
+        <td>Medium</td>
+        <td>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/solutions/s0007_product_of_array_except_self.rs"> Solution</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
           242
         </td>
         <td>
