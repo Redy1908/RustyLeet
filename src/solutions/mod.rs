@@ -5,3 +5,4 @@ mod s0004_group_anagrams;
 mod s0005_top_k_frequent_elements;
 mod s0006_encode_and_decode_strings;
 mod s0007_product_of_array_except_self;
+mod s0008_valid_sudoku;
