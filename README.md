@@ -121,6 +121,34 @@ Solutions to LeetCode problems in Rust
           <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/s0005_top_k_frequent_elements.rs"> Solution</a>
         </td>
       </tr>
-
   </tbody>
 </table>
+
+## Two Pointers
+
+<table id="leetcode" class="table-auto">
+  <thead>
+    <tr>
+      <th>id</th>
+      <th>Leetcode</th>
+      <th>Level</th>
+      <th>Solution</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td>
+          125
+        </td>
+        <td>
+          <a href="https://leetcode.com/problems/valid-palindrome/description/"> Valid Palindrome</a>
+        </td>
+        <td>Easy</td>
+        <td>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/s0001_valid_palindrome.rs"> Solution</a>
+        </td>
+      </tr>
+  </tbody>
+</table>
+
+
