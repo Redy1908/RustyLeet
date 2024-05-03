@@ -7,7 +7,7 @@ Solutions to LeetCode problems in Rust
       <th>id</th>
       <th>Leetcode</th>
       <th>Level</th>
-      <th>Solution<th>
+      <th>Solution</th>
     </tr>
   </thead>
   <tbody>
