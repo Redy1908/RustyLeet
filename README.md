@@ -61,6 +61,18 @@ Solutions to LeetCode problems in Rust
       </tr>
       <tr>
         <td>
+          271
+        </td>
+        <td>
+          <a href="https://leetcode.com/problems/encode-and-decode-strings/description/"> Valid Anagram</a>
+        </td>
+        <td>Medium</td>
+        <td>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/solutions/s0006_encode_and_decode_strings.rs"> Solution</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
           347
         </td>
         <td>
