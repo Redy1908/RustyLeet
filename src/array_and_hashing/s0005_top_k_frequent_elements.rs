@@ -13,7 +13,8 @@ fn solution(nums: Vec<i32>, k: i32) -> Vec<i32> {
 
 #[cfg(test)]
 mod test {
-    use crate::solutions::s0005_top_k_frequent_elements::solution;
+
+    use super::*;
 
     #[test]
     fn it_should_return_1_and_2() {

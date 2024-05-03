@@ -18,7 +18,8 @@ fn solution(nums: Vec<i32>) -> i32 {
 
 #[cfg(test)]
 mod tests {
-    use crate::solutions::s0009_longest_consecutive_sequence::solution;
+
+    use super::*;
 
     #[test]
     fn it_should_return_4() {

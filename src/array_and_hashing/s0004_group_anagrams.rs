@@ -18,7 +18,8 @@ fn solution(strs: Vec<&str>) -> Vec<Vec<&str>> {
 
 #[cfg(test)]
 mod tests {
-    use crate::solutions::s0004_group_anagrams::solution;
+
+    use super::*;
 
     #[test]
     fn should_return_true() {

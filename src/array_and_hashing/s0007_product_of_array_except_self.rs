@@ -18,7 +18,8 @@ fn solution(nums: Vec<i32>) -> Vec<i32> {
 
 #[cfg(test)]
 mod tests {
-    use crate::solutions::s0007_product_of_array_except_self::solution;
+
+    use super::*;
 
     #[test]
     fn it_should_return_24_12_8_6() {

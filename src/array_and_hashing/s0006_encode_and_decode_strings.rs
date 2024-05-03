@@ -15,7 +15,8 @@ fn decode(str: &str) -> Vec<String> {
 
 #[cfg(test)]
 mod tests {
-    use super::solution;
+
+    use super::*;
 
     #[test]
     fn should_return_true() {

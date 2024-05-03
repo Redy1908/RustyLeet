@@ -1,6 +1,6 @@
 #![allow(unused)]
 
-mod solutions;
+mod array_and_hashing;
 
 fn main() {
     println!("Hello, world!");

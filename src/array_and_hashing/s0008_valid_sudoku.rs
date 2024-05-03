@@ -30,7 +30,8 @@ fn solution(board: Vec<Vec<char>>) -> bool {
 
 #[cfg(test)]
 mod tests {
-    use crate::solutions::s0008_valid_sudoku::solution;
+
+    use super::*;
 
     #[test]
     fn it_should_return_true() {
