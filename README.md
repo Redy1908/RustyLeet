@@ -64,7 +64,7 @@ Solutions to LeetCode problems in Rust
           271
         </td>
         <td>
-          <a href="https://leetcode.com/problems/encode-and-decode-strings/description/"> Valid Anagram</a>
+          <a href="https://leetcode.com/problems/encode-and-decode-strings/description/"> Encode and Decode Strings</a>
         </td>
         <td>Medium</td>
         <td>
