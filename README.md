@@ -1,6 +1,8 @@
 # RustyLeet
 Solutions to LeetCode problems in Rust
 
+## Array And Hashing
+
 <table id="leetcode" class="table-auto">
   <thead>
     <tr>
