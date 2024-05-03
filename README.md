@@ -59,5 +59,18 @@ Solutions to LeetCode problems in Rust
           <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/solutions/s0002_valid_anagram.rs"> Solution</a>
         </td>
       </tr>
+      <tr>
+        <td>
+          347
+        </td>
+        <td>
+          <a href="https://leetcode.com/problems/top-k-frequent-elements/description/"> Top K Frequent Elements</a>
+        </td>
+        <td>Medium</td>
+        <td>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/solutions/s0005_top_k_frequent_elements.rs"> Solution</a>
+        </td>
+      </tr>
+
   </tbody>
 </table>
