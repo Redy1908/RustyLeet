@@ -14,7 +14,7 @@ fn solution(board: Vec<Vec<char>>) -> bool {
                     return false;
                 }
 
-                if !col_set.insert((row, digit)) {
+                if !col_set.insert((col, digit)) {
                     return false;
                 }
 
