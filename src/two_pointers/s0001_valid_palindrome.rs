@@ -14,7 +14,8 @@ fn solution(s: String) -> bool {
 
 #[cfg(test)]
 mod tests {
-    use crate::two_pointers::s0001_valid_palindrome::solution;
+
+    use super::*;
 
     #[test]
     fn it_should_return_true() {
