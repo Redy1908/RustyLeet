@@ -135,7 +135,19 @@ Solutions to LeetCode problems in Rust
       <th>Solution</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody> 
+    <tr>
+        <td>
+          15
+        </td>
+        <td>
+          <a href="https://leetcode.com/problems/3sum/description/"> 3 Sum</a>
+        </td>
+        <td>Medium</td>
+        <td>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/s0003_3_sum.rs"> Solution</a>
+        </td>
+      </tr>
       <tr>
         <td>
           125
