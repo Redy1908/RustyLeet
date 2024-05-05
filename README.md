@@ -22,7 +22,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Easy</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/s0003_two_sum.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/p0001_two_sum.rs"> Solution</a>
         </td>
       </tr>
       <tr>
@@ -34,7 +34,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Medium</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/s0008_valid_sudoku.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/p0036_valid_sudoku.rs"> Solution</a>
         </td>
       </tr>
       <tr>
@@ -46,7 +46,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Medium</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/s0004_group_anagrams.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/p0049_group_anagrams.rs"> Solution</a>
         </td>
       </tr>
       <tr>
@@ -58,7 +58,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Medium</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/s0009_longest_consecutive_sequence.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/p0128_longest_consecutive_sequence.rs"> Solution</a>
         </td>
       </tr>
       <tr>
@@ -70,7 +70,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Easy</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/s0001_contains_duplicate.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/p0217_contains_duplicate.rs"> Solution</a>
         </td>
       </tr>
       <tr>
@@ -82,7 +82,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Medium</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/s0007_product_of_array_except_self.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/p0238_product_of_array_except_self.rs"> Solution</a>
         </td>
       </tr>
       <tr>
@@ -94,7 +94,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Easy</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/s0002_valid_anagram.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/p0242_valid_anagram.rs"> Solution</a>
         </td>
       </tr>
       <tr>
@@ -106,7 +106,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Medium</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/s0006_encode_and_decode_strings.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/p0271_encode_and_decode_strings.rs"> Solution</a>
         </td>
       </tr>
       <tr>
@@ -118,7 +118,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Medium</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/s0005_top_k_frequent_elements.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/array_and_hashing/p0347_top_k_frequent_elements.rs"> Solution</a>
         </td>
       </tr>
   </tbody>
@@ -145,7 +145,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Medium</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/s0003_3_sum.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/p0015_3_sum.rs"> Solution</a>
         </td>
       </tr>
       <tr>
@@ -157,7 +157,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Easy</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/s0001_valid_palindrome.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/p0125_valid_palindrome.rs"> Solution</a>
         </td>
       </tr>
       <tr>
@@ -169,7 +169,7 @@ Solutions to LeetCode problems in Rust
         </td>
         <td>Medium</td>
         <td>
-          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/s0002_two_sum_2.rs"> Solution</a>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/p0167_two_sum_2.rs"> Solution</a>
         </td>
       </tr>
   </tbody>
