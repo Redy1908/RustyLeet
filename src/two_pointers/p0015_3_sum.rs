@@ -38,7 +38,8 @@ fn solution(mut nums: Vec<i32>) -> Vec<Vec<i32>> {
 
 #[cfg(test)]
 mod tests {
-    use crate::two_pointers::s0003_3_sum::solution;
+
+    use super::*;
 
     #[test]
     fn should_return_true() {

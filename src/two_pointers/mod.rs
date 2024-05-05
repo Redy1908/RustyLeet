@@ -1,3 +1,3 @@
-mod s0001_valid_palindrome;
-mod s0002_two_sum_2;
-mod s0003_3_sum;
+mod p0015_3_sum;
+mod p0125_valid_palindrome;
+mod p0167_two_sum_2;
