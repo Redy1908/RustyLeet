@@ -1,4 +1,5 @@
 # RustyLeet
+
 Solutions to LeetCode problems in Rust
 
 ## Array And Hashing
@@ -126,6 +127,7 @@ Solutions to LeetCode problems in Rust
 
 ## Two Pointers
 
+
 <table id="leetcode" class="table-auto">
   <thead>
     <tr>
@@ -136,6 +138,18 @@ Solutions to LeetCode problems in Rust
     </tr>
   </thead>
   <tbody> 
+    <tr>
+        <td>
+          11
+        </td>
+        <td>
+          <a href="https://leetcode.com/problems/container-with-most-water/"> Container With Most Water</a>
+        </td>
+        <td>Medium</td>
+        <td>
+          <a href="https://github.com/Redy1908/rusty_leet/blob/main/src/two_pointers/p0011_container_with_most_water.rs"> Solution</a>
+        </td>
+      </tr>
     <tr>
         <td>
           15
@@ -174,5 +188,4 @@ Solutions to LeetCode problems in Rust
       </tr>
   </tbody>
 </table>
-
 
